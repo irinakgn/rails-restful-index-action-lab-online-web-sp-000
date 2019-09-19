@@ -4,5 +4,5 @@ class StudentsController < ApplicationController
   end
 
   get "/students"
-end 
+end
 end
